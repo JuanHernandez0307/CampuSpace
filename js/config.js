@@ -6,8 +6,8 @@
 //    (los datos se guardan solo en tu navegador, sin servidor).
 // ============================================================
 window.CS_CONFIG = {
-  SUPABASE_URL: "",
-  SUPABASE_ANON_KEY: "",
+  SUPABASE_URL: "https://fsavikouzxbptpfzqqso.supabase.co",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZzYXZpa291enhicHRwZnpxcXNvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTQzNTg5MzEsImV4cCI6MjEwOTkzNDkzMX0.0sHasf5ixWf2C9bST0PO6gYlOFUlexfo0-zjUu-0DYU",
 
   // Muestra, en la pantalla de login, las cuentas de prueba para quien evalúa el proyecto.
   MOSTRAR_CUENTAS_DEMO: true,
